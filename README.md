@@ -1,16 +1,14 @@
 # easacc_task
 
-A new Flutter project.
+This is a samll project of a flutter application for 
+- check camera
+- check printer
+- check bluetooth
+- check usb connected devices
 
-## Getting Started
+###In this version of code all what i do that creating only ui(screens and widgets)
+##the architecture is similar to mvvm but very basic.
+- first i create one screen called main screen
+- i create grid of 4 cards, each refer to service or check(like printer check, etc...)
+- i try to make the user interface helpful and colorful
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
