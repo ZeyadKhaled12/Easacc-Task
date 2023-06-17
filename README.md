@@ -1,4 +1,4 @@
-# easacc_task
+# Handle Devices
 
 ## Version 1
 This is a samll project of a flutter application for 
